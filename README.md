@@ -10,3 +10,6 @@ http://localhost:8080/swagger-ui.html
 
 docker-compose ainda não está 100%, tenho que testar melhor a geração dos pacotes
 
+Colocar mais dados do usuario em account.
+Trazer uma lista de transações por account.
+validar a transformação de string para bigdecimal
